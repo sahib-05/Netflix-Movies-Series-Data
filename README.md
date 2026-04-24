@@ -99,5 +99,3 @@ This project helps in understanding Netflix’s content strategy, audience targe
 
 ##  Author
 Sahib Singh
-
-Sahib Singh
